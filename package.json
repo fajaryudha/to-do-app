@@ -6,10 +6,20 @@
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.3",
     "@testing-library/user-event": "^12.6.2",
+    "@pmmmwh/react-refresh-webpack-plugin": "0.4.3",
+    "classnames": "^2.2.6",
+    "jest-config": "26.6.3",
+    "js-dom": "16.4.0",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
+    "react-redux": "^7.2.2",
+    "react-refresh-webpack-plugin": "^0.1.0",
     "react-scripts": "4.0.1",
-    "web-vitals": "^0.2.4"
+    "redux": "^4.0.5",
+    "sass-loader": "10.1.1",
+    "tsutils": "3.19.1",
+    "web-vitals": "^0.2.4",
+    "ws": "7.4.2"
   },
   "scripts": {
     "start": "react-scripts start",
